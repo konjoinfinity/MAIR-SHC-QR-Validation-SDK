@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfraredDemo</string>
+    <string name="jeffrey">jeffrey</string>
+    <string name="_36_6">36.6</string>
+    <string name="todo">TODO</string>
+    <string name="open_permission">The following permissions are not open and will cause APP not work properly. Do you want to open these permissions?</string>
+</resources>
